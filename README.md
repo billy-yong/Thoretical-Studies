@@ -63,4 +63,4 @@ This repository contains the theoretical studies and notes from 7 key subjects c
 
 Each subject is organized into a dedicated directory with the following structure:
 
-20241229
+20241230
